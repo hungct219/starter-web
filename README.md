@@ -1,5 +1,6 @@
 # Starter Web Project
 	This is a simple website project for showing how to use Git and Github together.
+	Updaating for emergency fix after stashing.
 ## Introduction
 	This is example is toi show different parts of the Git repository and various commands using a web project.
 ## Purpose
